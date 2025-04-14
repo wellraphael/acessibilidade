@@ -18,3 +18,8 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 
 });
+
+scrollReveal().reveal('#inicio',{ delay: 500});
+scrollReveal().reveal('#tropicalia',{ delay: 500});
+scrollReveal().reveal('#galeria',{ delay: 500});
+scrollReveal().reveal('#contato',{ delay: 500});
